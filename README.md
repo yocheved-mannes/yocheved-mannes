@@ -3,7 +3,7 @@
 Yocheved Mannes
 
 ✨ About Me
-Full Stack Developer with hands-on experience in developing practical, real-world projects. Skilled at managing complex requirements, learning quickly, and delivering high-quality results under tight deadlines. Detail-oriented, efficient, and passionate about building scalable, maintainable, and user-friendly systems. Highly motivated, responsible, and a strong team player — always striving to improve and grow professionally.
+Software developer with practical experience and extensive professional knowledge, with systems thinking and the ability to lead technological processes from idea to implementation. Excellent at writing clean and innovative code, learns quickly and strives to constantly develop. Responsible and highly committed, works well in a team and deals effectively with complex challenges..
 
 📁 Featured Projects
 
@@ -13,19 +13,5 @@ Time Reporting Management System – Designed and implemented a full-stack appli
 End-to-End | Node.js, React, Supabase
 Financial Management System – Created a dynamic financial tracking platform with secure JWT-based login, Redux state management, and interactive charts powered by the Nivo library. Integrated AI-based features, conducted code reviews, and deployed to AWS with CI/CD principles.
 
-💡 Technical Skills
-Backend: C#, .NET Core, Java, Python, Node.js
-Frontend: React, Angular, TypeScript, JavaScript, HTML, CSS
-Databases: SQL Server, MySQL, MongoDB
-Version Control & Cloud: Git, GitHub, AWS
-Operating Systems: Windows, Linux
-
-🎓 Education
-2023–2025 | Software Engineering | MAHAT – Israeli Ministry of Labor & Vocational Training
-2024 | Advanced UI/UX Design | Figma
-
-🌐 Languages
-Hebrew – Native | English – Fluent
-
 📬 Contact
-📧 y0556739620@gmail.com | 📞 055-6739620
+📧 y0556739620@gmail.com - my code is available for you - feel free to look at my work!
