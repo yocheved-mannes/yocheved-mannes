@@ -6,7 +6,6 @@ Yocheved Mannes
 Full Stack Developer with hands-on experience in developing practical, real-world projects. Skilled at managing complex requirements, learning quickly, and delivering high-quality results under tight deadlines. Detail-oriented, efficient, and passionate about building scalable, maintainable, and user-friendly systems. Highly motivated, responsible, and a strong team player — always striving to improve and grow professionally.
 
 📁 Featured Projects
-
 End-to-End | .NET Core, Angular, SQL Server
 Time Reporting Management System – Designed and implemented a full-stack application based on layered architecture. Developed RESTful APIs, integrated JWT authentication and authorization, and managed data efficiently using Entity Framework. Combined a modern, responsive UI with a clean backend structure.
 
