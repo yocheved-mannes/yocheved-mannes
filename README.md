@@ -9,11 +9,27 @@ Responsible and highly committed, works well in a team and deals effectively wit
 
 ---
 
+## 📁 Featured Projects  
+
+### 🕓 End-to-End | .NET Core, Angular, SQL Server  
+**Time Reporting Management System**  
+- Designed and implemented a full-stack application based on layered architecture.  
+- Developed RESTful APIs, integrated JWT authentication and authorization.  
+- Managed data efficiently using Entity Framework.  
+- Combined a modern, responsive UI with a clean backend structure.  
+
+### 💰 End-to-End | Node.js, React, Supabase  
+**Financial Management System**  
+- Created a dynamic financial tracking platform with secure JWT-based login.  
+- Implemented Redux state management and interactive charts using Nivo.  
+- Integrated AI-based features, conducted code reviews, and deployed to AWS with CI/CD principles.  
+
+---
+
 ## 🛠️ Languages and Tools  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="45" height="45" alt="Angular"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="45" height="45" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
