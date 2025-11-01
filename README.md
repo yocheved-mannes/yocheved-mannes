@@ -13,14 +13,6 @@ Responsible and highly committed, works well in a team and deals effectively wit
 
 ---
 
-## 🧰 Languages and Tools  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,nodejs,js,ts,html,css,sqlserver,sqlite,git,github,vscode,aws" />
-</p>
-
----
-
 ## 📁 Featured Projects  
 
 ### 🕓 End-to-End | .NET Core, Angular, SQL Server  
@@ -38,12 +30,41 @@ Responsible and highly committed, works well in a team and deals effectively wit
 
 ---
 
+## 🛠️ Languages and Tools  
+
+<p align="left">
+  <a href="https://angular.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/> </a>
+  <a href="https://dotnet.microsoft.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/sql-server/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="40" height="40"/> </a>
+  <a href="https://react.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/> </a>
+  <a href="https://github.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </a>
+  <a href="https://aws.amazon.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/> </a>
+</p>
+
+---
+
 ## 📬 Contact  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gmail,linkedin,github" /><br>
-  📧 **y0556739620@gmail.com**  
-  💻 *My code is available for you — feel free to look at my work!*
+  <a href="mailto:y0556739620@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
 </p>
+
+<p align="center">
+📧 <b>y0556739620@gmail.com</b><br>
+💻 *My code is available for you — feel free to look at my work!*
+</p>
+
 
 ---
