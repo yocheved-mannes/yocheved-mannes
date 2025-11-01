@@ -13,5 +13,8 @@ Time Reporting Management System – Designed and implemented a full-stack appli
 End-to-End | Node.js, React, Supabase
 Financial Management System – Created a dynamic financial tracking platform with secure JWT-based login, Redux state management, and interactive charts powered by the Nivo library. Integrated AI-based features, conducted code reviews, and deployed to AWS with CI/CD principles.
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gmail,linkedin,github" /><br>
+
 📬 Contact
 📧 y0556739620@gmail.com - my code is available for you - feel free to look at my work!
